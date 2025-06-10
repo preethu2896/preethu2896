@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Preetham!
 
-I'm a passionate Computer Science and Design Engineering student focused on building innovative solutions. I have expertise in AI-driven solutions, UI/UX design, and strong problem-solving skills.
+[cite_start]I'm a passionate Computer Science and Design Engineering student focused on building innovative solutions. [cite_start]I have expertise in AI-driven solutions, UI/UX design, and strong problem-solving skills.
 
 [cite_start]As a co-founder of a clothing startup and an e-commerce business, I also have practical experience in building AI-powered platforms. [cite_start]I'm always eager to research and develop cutting-edge technology to enhance user experiences.
 

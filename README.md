@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Preetham!
 
-[cite_start]I'm a passionate Computer Science and Design Engineering student focused on building innovative solutions. [cite_start]I have expertise in AI-driven solutions, UI/UX design, and strong problem-solving skills.
+I'm a passionate Computer Science and Design Engineering student focused on building innovative solutions. I have expertise in AI-driven solutions, UI/UX design, and strong problem-solving skills.
 
-[cite_start]As a co-founder of a clothing startup and an e-commerce business, I also have practical experience in building AI-powered platforms. [cite_start]I'm always eager to research and develop cutting-edge technology to enhance user experiences.
+As a co-founder of a clothing startup and an e-commerce business, I also have practical experience in building AI-powered platforms. I'm always eager to research and develop cutting-edge technology to enhance user experiences.
 
 ---
 
@@ -24,24 +24,24 @@
 ### Featured Project:
 
 #### [Electra - E Voting System](https://github.com/preethu23456/Electra-E-voting-system)
-[cite_start]Electra is a secure and efficient web-based e-voting system designed for Canara Engineering College. [cite_start]It ensures transparency, accuracy, and ease of use through robust authentication, real-time vote tallying, and a responsive interface. [cite_start]Developed using PHP, MySQL, HTML, CSS, and JavaScript, Electra prioritizes data security and voter privacy, providing a reliable and tamper-proof digital voting solution.
+Electra is a secure and efficient web-based e-voting system designed for Canara Engineering College.It ensures transparency, accuracy, and ease of use through robust authentication, real-time vote tallying, and a responsive interface.Developed using PHP, MySQL, HTML, CSS, and JavaScript, Electra prioritizes data security and voter privacy, providing a reliable and tamper-proof digital voting solution.
 
 ---
 
 ### Learning & Certifications:
-* [cite_start]Google AI Essentials (Coursera-Google) 
-* [cite_start]Unlocking the Basics of Machine Learning By Accolade Tech solutions 
-* [cite_start]Front-End Developer (Coursera-Meta) 
+* Google AI Essentials (Coursera-Google) 
+* Unlocking the Basics of Machine Learning By Accolade Tech solutions 
+* Front-End Developer (Coursera-Meta) 
 
 ---
 
 ### Interests:
-* [cite_start]Entrepreneurship & Startups 
-* [cite_start]UI/UX Design 
-* [cite_start]Health & Fitness 
+* Entrepreneurship & Startups 
+* UI/UX Design 
+* Health & Fitness 
 
 ---
 
 ### Connect with me:
-* [cite_start]LinkedIn: [linkedin.com/in/preethambhandary](https://www.linkedin.com/in/preethambhandary) 
-* [cite_start]Email: [preethambhandary385@gmail.com](mailto:preethambhandary385@gmail.com)
+* LinkedIn: [linkedin.com/in/preethambhandary](https://www.linkedin.com/in/preethambhandary) 
+* Email: [preethambhandary385@gmail.com](mailto:preethambhandary385@gmail.com)

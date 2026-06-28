@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Preetham👋
 
 <!--
 **preethu2896/preethu2896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

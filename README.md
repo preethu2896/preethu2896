@@ -6,7 +6,7 @@ I'm a Computer Science & Design graduate, currently deepening my skills in Deep 
 
 ### 🔬 Featured Work
 
-**[AutoCTI](https://github.com/preethu2896/AUTOCTI)** — Automated Cyber Threat Detection using AutoML
+**[AutoCTI:  Automated Cyber Threat Detection using AutoML](https://github.com/preethu2896/AUTOCTI)** —
 Real-time Cyber Threat Intelligence system that automatically detects and classifies phishing, malware, and brute-force attacks. Published as a peer-reviewed paper at the IEEE AIDE 2026 Conference and supported by a KSCST government research grant.
 📄 [Read the paper on IEEE Xplore](https://ieeexplore.ieee.org/document/11544654)
 
